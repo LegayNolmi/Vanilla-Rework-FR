@@ -1,8 +1,8 @@
 #reload countrycolors
 
 GER = {
-	color = HSV { 0 0 0 }
-	color_ui = rgb { 0 0 0 }
+	color = HSV { 70 70 70 }
+	color_ui = rgb { 70 70 70 }
 }
 ENG = {
 	color = rgb { 182 34 2 }
@@ -142,8 +142,8 @@ CAN = {
 	color_ui = rgb { 155 62 51 }
 }
 CHI = {
-	color = hsv { 30 140 181 } 
-	color_ui = hsv {  30 140 181 }
+	color = hsv { 25 116 210 } 
+	color_ui = hsv {  25 116 210 }
 }
 CHL = {
 	color = rgb { 155 101 107 }
@@ -182,8 +182,8 @@ IRQ = {
 	color_ui = rgb { 231 148 129 }
 }
 JAP = {
-	color = hsv { 171 171 21 }
-	color_ui = hsv { 171 171 21 }
+	color = hsv { 255 255 255 }
+	color_ui = hsv { 255 255 255 }
 }	
 LIB = {
 	color = rgb { 152 130 191 }
@@ -299,8 +299,8 @@ SLO = {
 	color_ui = rgb { 255 255 255 }
 }
 RAJ = {
-	color = rgb { 226  135  40 }
-	color_ui = rgb { 226  135  40 }
+	color = rgb { 240 133 30 }
+	color_ui = rgb { 255 128 0 }
 }
 
 CRO = {
